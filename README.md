@@ -26,7 +26,7 @@ Spotify clone built with HTML, CSS, and JavaScript using the Spotify API.
 
 ## Let's connect 😉
 
-- <img src="linkedin-logo.png" alt="LinkedIn" width="20" style="vertical-align: middle;"/> [LinkedIn](https://linkedin.com/in/gabriel-crisan16)
+- <a href="https://linkedin.com/in/gabriel-crisan16"><img src="linkedin-logo.png" alt="LinkedIn" width="20" style="vertical-align: middle; margin-bottom: 2px;"/> LinkedIn</a>
 - gabicrisan01@gmail.com
 
 ---
