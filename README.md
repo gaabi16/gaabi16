@@ -1,4 +1,4 @@
-# Hi there, I'm Gabriel 👋
+# Hi there, I'm Gabriel!
 
  Student at Faculty of Automatic Control and Computer Science, Bucharest. Passionate about building practical software solutions and exploring AI.
 
@@ -24,7 +24,7 @@ Bash-like shell with piping, I/O redirection, and parallel execution support.
 ### Musify
 Spotify clone built with HTML, CSS, and JavaScript using the Spotify API.
 
-## Let's connect 😉
+## Let's connect!
 
 - <img src="linkedin-logo.png" alt="LinkedIn" width="25" align="center"> <a href="https://linkedin.com/in/gabriel-crisan16">LinkedIn</a>
 - gabicrisan01@gmail.com
